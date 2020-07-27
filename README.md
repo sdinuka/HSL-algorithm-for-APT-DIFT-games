@@ -5,7 +5,7 @@ The code presents the implementation of the value iteration algorithm and the HS
 
 (*) Python Version: 3.7
 
-(*) Keras 2.3.1
+(*) Keras Version: 2.3.1
 
 (*) Example_Data.mat and Ransomware_Data.mat files are needed for these codes to run:
 

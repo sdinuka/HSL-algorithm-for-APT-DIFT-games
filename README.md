@@ -19,6 +19,8 @@ Disclaimer: THE SAMPLE CODE IS PROVIDED "AS IS" AND ANY EXPRESS OR IMPLIED WARRA
 
 For additional information, contact: Dinuka Sahabandu, email: sdinuka@uw.edu
 
+Acknowledgement: This work was supported by ONR grant N00014-16-1-2710 P00002, DARPA TC grant DARPA FA8650-15-C-7556, and ARO grant W911NF-16-1-0485.
+
 [1] Shana Moothedath, Dinuka Sahabandu, Joey Allen, Linda Bushnell, Wenke Lee, and Radha Poovendran, “Stochastic Dynamic Information Flow Tracking Game using Supervised Learning for Detecting Advanced Persistent Threats”. 
  - Arxiv link: https://arxiv.org/pdf/2007.12327.pdf
  - website: https://adapt.ece.uw.edu/
